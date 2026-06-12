@@ -18,7 +18,15 @@ IDE: Visual Studio
 Tipo de aplicación: Escritorio
 
 ⚙️ Funcionalidades
-
+![imagen alt](https://github.com/Jesuschalas/Gestion-biblioteca/blob/a1d16e55389f4faa2ea902914283377c0a39ceba/Captura%20de%20pantalla%202026-06-12%20185932.png)
+![imagen alt](https://github.com/Jesuschalas/Gestion-biblioteca/blob/edff6a079f1df2efee15c8acf2d6078856abdebb/Captura%20de%20pantalla%202026-06-12%20185957.png)
+![imagen alt](https://github.com/Jesuschalas/Gestion-biblioteca/blob/edff6a079f1df2efee15c8acf2d6078856abdebb/Captura%20de%20pantalla%202026-06-12%20190018.png)
+![imagen alt](https://github.com/Jesuschalas/Gestion-biblioteca/blob/edff6a079f1df2efee15c8acf2d6078856abdebb/Captura%20de%20pantalla%202026-06-12%20190028.png)
+![imagen alt](https://github.com/Jesuschalas/Gestion-biblioteca/blob/edff6a079f1df2efee15c8acf2d6078856abdebb/Captura%20de%20pantalla%202026-06-12%20190050.png)
+![imagen alt](https://github.com/Jesuschalas/Gestion-biblioteca/blob/edff6a079f1df2efee15c8acf2d6078856abdebb/Captura%20de%20pantalla%202026-06-12%20190101.png)
+![imagen alt](https://github.com/Jesuschalas/Gestion-biblioteca/blob/edff6a079f1df2efee15c8acf2d6078856abdebb/Captura%20de%20pantalla%202026-06-12%20190110.png)
+![imagen alt](https://github.com/Jesuschalas/Gestion-biblioteca/blob/edff6a079f1df2efee15c8acf2d6078856abdebb/Captura%20de%20pantalla%202026-06-12%20190212.png)
+![imagen alt](https://github.com/Jesuschalas/Gestion-biblioteca/blob/edff6a079f1df2efee15c8acf2d6078856abdebb/Captura%20de%20pantalla%202026-06-12%20190232.png)
 
 🎓 Contexto Académico
 
